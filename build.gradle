@@ -47,7 +47,7 @@ dependencies {
     implementation 'org.slf4j:slf4j-simple:1.7.7'
     implementation 'org.json:json:20171018'
     implementation 'org.apache.commons:commons-lang3:3.7'
-    implementation 'org.bitcoinj:bitcoinj-core:0.14.7'
+    implementation 'org.bitcoinj:bitcoinj-core:0.17.1'
     implementation 'com.squareup.okhttp3:okhttp:3.11.0'
 
     testCompile "junit:junit:4.12"
